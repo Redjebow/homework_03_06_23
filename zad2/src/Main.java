@@ -51,5 +51,6 @@ public class Main {
         String wordForInspection = scanner.next();
         String word = checkForRepeatingChars(wordForInspection);
         printResult(word);
+        System.out.println("Test for task 1");
     }
 }
